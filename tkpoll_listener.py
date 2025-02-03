@@ -11,9 +11,9 @@ from datetime import datetime
 
 def proc_opts():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--session')
+    parser.add_argument('--token')
     parser.add_argument('--logfile')
-    return parser.parse_arguments()
+    return parser.parse_args()
 
 
 class tkPollsLister():
@@ -104,5 +104,6 @@ class tkPollsLister():
 
 
 if __name__ == "__main__":
-    listener = tkPollsLister(sess_token='yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_') 
+    args = proc_opts()
+    listener = tkPollsLister(sess_token=args.token) 
     asyncio.run(listener.connect())
