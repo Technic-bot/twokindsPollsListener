@@ -1,0 +1,1524 @@
+2025-02-02 20:46:30,045 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-02 20:46:30,260 - __main__ - INFO - Authenticating as yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_
+2025-02-02 20:46:30,261 - __main__ - INFO - Got message type: reqAuth
+2025-02-02 20:46:30,261 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-02 20:46:30,319 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-02 20:46:30,319 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-02 20:46:30,319 - __main__ - INFO - Got message type: blacklistOk
+2025-02-02 20:46:30,319 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-02 20:46:30,319 - __main__ - INFO - Got message type: rollOk
+2025-02-02 20:46:30,319 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-02 20:46:30,319 - __main__ - INFO - Got message type: status
+2025-02-02 20:46:30,319 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-02 20:46:32,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:46:42,387 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:46:52,387 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:02,393 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:12,386 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:22,395 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:32,386 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:35,350 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-02 20:47:35,574 - __main__ - INFO - Authenticating as yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_
+2025-02-02 20:47:35,575 - __main__ - INFO - Got message type: reqAuth
+2025-02-02 20:47:35,575 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-02 20:47:35,633 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-02 20:47:35,634 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-02 20:47:35,634 - __main__ - INFO - Got message type: blacklistOk
+2025-02-02 20:47:35,634 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-02 20:47:35,634 - __main__ - INFO - Got message type: rollOk
+2025-02-02 20:47:35,634 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-02 20:47:35,634 - __main__ - INFO - Got message type: status
+2025-02-02 20:47:35,634 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-02 20:47:42,393 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:47:52,398 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:02,393 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:12,388 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:22,388 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:32,388 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:42,393 - __main__ - INFO - Heartbeat: 55;0
+2025-02-02 20:48:52,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:02,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:12,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:22,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:32,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:42,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:49:52,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:02,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:12,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:22,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:32,395 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:42,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-02 20:50:52,386 - __main__ - INFO - Heartbeat: 57;0
+2025-02-02 20:51:02,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-02 20:51:12,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-02 20:51:22,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:51:32,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:51:42,386 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:51:52,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:52:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:52:12,386 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:52:22,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:52:32,386 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:52:42,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:52:52,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:53:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:53:12,386 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:53:22,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-02 20:53:32,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:53:42,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-02 20:53:52,387 - __main__ - INFO - Heartbeat: 64;20
+2025-02-02 20:54:02,386 - __main__ - INFO - Heartbeat: 62;33
+2025-02-02 20:54:12,387 - __main__ - INFO - Heartbeat: 65;40
+2025-02-02 20:54:22,386 - __main__ - INFO - Heartbeat: 68;47
+2025-02-02 20:54:32,386 - __main__ - INFO - Heartbeat: 70;49
+2025-02-02 20:54:42,387 - __main__ - INFO - Heartbeat: 72;50
+2025-02-02 20:54:52,387 - __main__ - INFO - Heartbeat: 75;53
+2025-02-02 20:55:02,387 - __main__ - INFO - Heartbeat: 74;53
+2025-02-02 20:55:12,386 - __main__ - INFO - Heartbeat: 74;53
+2025-02-02 20:55:22,387 - __main__ - INFO - Heartbeat: 74;53
+2025-02-02 20:55:32,386 - __main__ - INFO - Heartbeat: 74;53
+2025-02-02 20:55:42,387 - __main__ - INFO - Heartbeat: 74;55
+2025-02-02 20:55:52,386 - __main__ - INFO - Heartbeat: 75;55
+2025-02-02 20:56:02,386 - __main__ - INFO - Heartbeat: 75;55
+2025-02-02 20:56:12,386 - __main__ - INFO - Heartbeat: 75;56
+2025-02-02 20:56:22,387 - __main__ - INFO - Heartbeat: 75;59
+2025-02-02 20:56:32,386 - __main__ - INFO - Heartbeat: 76;59
+2025-02-02 20:56:42,387 - __main__ - INFO - Heartbeat: 77;60
+2025-02-02 20:56:52,386 - __main__ - INFO - Heartbeat: 78;59
+2025-02-02 20:57:02,387 - __main__ - INFO - Heartbeat: 78;64
+2025-02-02 20:57:12,387 - __main__ - INFO - Heartbeat: 77;65
+2025-02-02 20:57:22,386 - __main__ - INFO - Heartbeat: 79;68
+2025-02-02 20:57:32,386 - __main__ - INFO - Heartbeat: 79;68
+2025-02-02 20:57:42,387 - __main__ - INFO - Heartbeat: 79;68
+2025-02-02 20:57:52,387 - __main__ - INFO - Heartbeat: 79;68
+2025-02-02 20:58:02,387 - __main__ - INFO - Heartbeat: 80;68
+2025-02-02 20:58:12,387 - __main__ - INFO - Heartbeat: 80;69
+2025-02-02 20:58:22,387 - __main__ - INFO - Heartbeat: 80;69
+2025-02-02 20:58:32,386 - __main__ - INFO - Heartbeat: 80;70
+2025-02-02 20:58:42,387 - __main__ - INFO - Heartbeat: 83;72
+2025-02-02 20:58:52,387 - __main__ - INFO - Heartbeat: 83;73
+2025-02-02 20:59:02,386 - __main__ - INFO - Heartbeat: 83;72
+2025-02-02 20:59:12,386 - __main__ - INFO - Heartbeat: 83;72
+2025-02-02 20:59:22,386 - __main__ - INFO - Heartbeat: 82;72
+2025-02-02 20:59:32,386 - __main__ - INFO - Heartbeat: 84;73
+2025-02-02 20:59:42,387 - __main__ - INFO - Heartbeat: 83;73
+2025-02-02 20:59:52,387 - __main__ - INFO - Heartbeat: 84;73
+2025-02-02 21:00:02,387 - __main__ - INFO - Heartbeat: 83;72
+2025-02-02 21:00:12,386 - __main__ - INFO - Heartbeat: 83;72
+2025-02-02 21:00:22,386 - __main__ - INFO - Heartbeat: 81;71
+2025-02-02 21:00:32,386 - __main__ - INFO - Heartbeat: 81;72
+2025-02-02 21:00:42,386 - __main__ - INFO - Heartbeat: 82;73
+2025-02-02 21:00:52,386 - __main__ - INFO - Heartbeat: 82;73
+2025-02-02 21:01:02,386 - __main__ - INFO - Heartbeat: 82;74
+2025-02-02 21:01:12,386 - __main__ - INFO - Heartbeat: 82;75
+2025-02-02 21:01:22,386 - __main__ - INFO - Heartbeat: 83;76
+2025-02-02 21:01:32,387 - __main__ - INFO - Heartbeat: 81;74
+2025-02-02 21:01:40,395 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-02 21:01:40,627 - __main__ - INFO - Authenticating as yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_
+2025-02-02 21:01:40,628 - __main__ - INFO - Got message type: reqAuth
+2025-02-02 21:01:40,628 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-02 21:01:40,684 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-02 21:01:40,684 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-02 21:01:40,684 - __main__ - INFO - Got message type: blacklistOk
+2025-02-02 21:01:40,684 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-02 21:01:40,685 - __main__ - INFO - Got message type: rollOk
+2025-02-02 21:01:40,685 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-02 21:01:40,685 - __main__ - INFO - Got message type: status
+2025-02-02 21:01:40,685 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-02 21:01:42,386 - __main__ - INFO - Heartbeat: 82;74
+2025-02-02 21:23:28,014 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-02 21:23:28,282 - __main__ - INFO - Authenticating as yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_
+2025-02-02 21:23:28,283 - __main__ - INFO - Got message type: reqAuth
+2025-02-02 21:23:28,283 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-02 21:23:28,341 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-02 21:23:28,341 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-02 21:23:28,341 - __main__ - INFO - Got message type: blacklistOk
+2025-02-02 21:23:28,341 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-02 21:23:28,341 - __main__ - INFO - Got message type: rollOk
+2025-02-02 21:23:28,341 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-02 21:23:28,341 - __main__ - INFO - Got message type: status
+2025-02-02 21:23:28,342 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-02 21:23:32,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 18:41:00,075 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 18:41:00,489 - __main__ - INFO - Authenticating as None
+2025-02-09 18:41:00,490 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 18:41:00,490 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 18:41:48,442 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 18:41:48,666 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 18:41:48,667 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 18:41:48,668 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 18:41:48,725 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 18:41:48,725 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 18:41:48,725 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 18:41:48,725 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 18:41:48,725 - __main__ - INFO - Got message type: rollOk
+2025-02-09 18:41:48,725 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 18:41:48,725 - __main__ - INFO - Got message type: status
+2025-02-09 18:41:48,726 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 18:41:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:42:02,245 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 18:42:02,456 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 18:42:02,457 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 18:42:02,458 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 18:42:02,512 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 18:42:02,513 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 18:42:02,513 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 18:42:02,513 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 18:42:02,513 - __main__ - INFO - Got message type: rollOk
+2025-02-09 18:42:02,513 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 18:42:02,513 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 18:42:02,513 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 18:42:02,513 - __main__ - INFO - Got message type: standby
+2025-02-09 18:42:02,513 - __main__ - INFO - {'Mtype': 'standby'}
+2025-02-09 18:42:12,387 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:42:22,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:42:32,391 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:42:42,395 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:42:52,394 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:43:02,385 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:43:12,387 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 18:43:22,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:43:32,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:43:42,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:43:52,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:02,385 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:12,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:22,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:32,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:42,396 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:44:52,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:02,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:12,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:22,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:32,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:42,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:45:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:12,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:22,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:32,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:42,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:46:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:12,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:22,395 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:32,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:42,396 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:47:52,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:12,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:22,395 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:32,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:42,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:48:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:49:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:49:12,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:49:22,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:49:32,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:49:42,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:49:52,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:02,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:12,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:22,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:32,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:42,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:50:52,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:51:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:51:12,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:51:22,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:51:32,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:51:42,396 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:51:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:52:02,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:52:12,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:52:22,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:52:32,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:52:42,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:52:52,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:53:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:53:12,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:53:22,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:53:32,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:53:42,394 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:53:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:54:02,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:54:12,385 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:54:22,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:54:32,384 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:54:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:54:52,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:55:02,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:55:12,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:55:22,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:55:32,384 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:55:42,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:55:52,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:56:02,385 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:56:12,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:56:22,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 18:56:32,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 18:56:42,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:56:52,386 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:02,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:12,386 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:22,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:32,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:42,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:57:52,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:02,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:12,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:22,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:32,386 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:42,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:58:52,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:59:02,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:59:12,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:59:22,394 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 18:59:32,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:59:42,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 18:59:52,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:02,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:12,388 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:22,395 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:32,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:42,385 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:00:52,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:02,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:12,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:22,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:32,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:42,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:01:52,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:02:02,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:02:12,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:02:22,386 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:02:32,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:02:42,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:02:52,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:03:02,386 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:03:12,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:03:22,395 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:03:32,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:03:42,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:03:52,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:02,386 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:12,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:22,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:32,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:42,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:04:52,387 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:05:02,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:05:12,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:05:22,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:05:32,383 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:05:42,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:05:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:06:02,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:06:12,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:06:22,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:06:32,383 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:06:42,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:06:52,387 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:02,384 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:12,384 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:22,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:32,383 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:42,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:07:52,386 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:08:02,383 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:08:12,382 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:08:22,385 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:08:32,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:08:42,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:08:52,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:09:02,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:09:12,384 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:09:22,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:09:32,383 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:09:42,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:09:52,383 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:10:02,383 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:10:12,382 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:10:22,382 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:10:32,382 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:10:42,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:10:52,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:11:02,383 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:11:12,382 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:11:22,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:11:32,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:11:42,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:11:52,383 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:12:02,383 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:12:12,383 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:12:22,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:12:32,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:12:42,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:12:52,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:02,381 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:12,384 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:22,381 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:32,384 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:42,384 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:13:52,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:02,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:12,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:22,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:32,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:42,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:14:52,384 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:15:02,381 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 19:15:12,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:15:22,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:15:32,380 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:15:42,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:15:52,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:02,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:12,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:22,389 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:32,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:42,389 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:16:52,383 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:02,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:12,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:22,389 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:32,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:42,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:17:52,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:02,380 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:12,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:22,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:32,382 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:42,389 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:18:52,381 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:19:02,380 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:19:12,380 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:19:22,388 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:19:32,379 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 19:19:42,386 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:19:52,381 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:20:02,381 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:20:12,383 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:20:22,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:20:32,382 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:20:42,382 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:20:52,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:21:02,382 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:21:12,383 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:21:22,382 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:21:32,383 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:21:42,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:21:52,384 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:02,383 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:12,384 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:22,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:32,384 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:42,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:22:52,384 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:23:02,384 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:23:12,385 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:23:22,384 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:23:32,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:23:42,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:23:52,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:02,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:12,383 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:22,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:32,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:42,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:24:52,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:25:02,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:25:12,384 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:25:22,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:25:32,384 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:25:42,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:25:52,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:02,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:12,384 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:22,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:32,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:26:52,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:27:02,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:27:12,385 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:27:22,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:27:32,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:27:42,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:27:52,386 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:28:02,386 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:28:12,386 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:28:22,385 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:28:32,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:28:42,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:28:52,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:02,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:12,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:22,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:32,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:42,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:29:52,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:30:02,386 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:30:12,388 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:30:22,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:30:32,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:30:42,388 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:30:52,388 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:02,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:12,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:22,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:32,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:42,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:31:52,388 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:02,394 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:12,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:22,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:32,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:42,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:32:52,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:33:02,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:33:12,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:33:22,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:33:32,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:33:42,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:33:52,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:34:02,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:34:12,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:34:22,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:34:32,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:34:42,393 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:34:52,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:02,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:22,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:32,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:42,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:35:52,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:36:02,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:36:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:36:22,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:36:32,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:36:42,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:36:52,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:37:02,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:37:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:37:22,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:37:32,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:37:42,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:37:52,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:38:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:38:12,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:38:22,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:38:32,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:38:42,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:38:52,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:39:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:39:12,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:39:22,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:39:32,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:39:42,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:39:52,399 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:40:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:40:12,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:40:22,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:40:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:40:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:40:52,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:41:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:41:12,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:41:22,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:41:32,394 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:41:42,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:41:52,403 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:42:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:42:12,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:42:22,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:42:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:42:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:42:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:12,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:22,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:32,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:42,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:43:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:44:02,388 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:44:12,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:44:22,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:44:32,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:44:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:44:52,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:45:02,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:45:12,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:45:22,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:45:32,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:45:42,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:45:52,388 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:46:02,388 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:46:12,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:46:22,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:46:32,387 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:46:42,388 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 19:46:52,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:47:02,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:47:12,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:47:22,388 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:47:32,387 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:47:42,394 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:47:52,393 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:48:02,388 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:48:12,388 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:48:22,388 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:48:32,388 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:48:42,389 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:48:52,389 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:49:02,387 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 19:49:12,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 19:49:22,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 19:49:32,391 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:49:42,389 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:49:52,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:50:02,389 - __main__ - INFO - Heartbeat: 63;0
+2025-02-09 19:50:12,389 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:50:22,395 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 19:50:32,390 - __main__ - INFO - Heartbeat: 63;0
+2025-02-09 19:50:42,395 - __main__ - INFO - Heartbeat: 63;0
+2025-02-09 19:50:42,906 - __main__ - INFO - Got message type: poll
+2025-02-09 19:50:42,906 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 2', 'Options': {'65': 'Wolf red(scarlet) dancing with Sythe after their little previous date. Either clubbing or more formal with a dress dance with Sythe is gently guiding her along and showing a lot of concern for her comfort.', '66': 'Dress Show 2: Natani, Sythe, and Red showing off some suits and other male outfits that Kathrin has made, while respectively Keith, Maren, and Raine each give their ratings!', '67': 'Natani cosplays Agent 007. Bond, James Bond', '68': 'Eris visits the trace mansion and indirectly asks if they might have seen their chimera project,', '69': 'Trace with long hair', '70': "A nervous Vixen Eric is being inspected by his brother Roderick. Who came by for a surprise visit, and sees, what he thinks is, Eric's newest acquisition.", '71': "Mike getting Hazel the rabbit a giant, elaborate bouquet for Valentine's Day", '72': 'Office Kat', '73': '"Lil Rabbit" has to sit and explain to the Northern Bastian\'s Father that he will a grandpa with the Mother chatting with her daughter.', '74': 'Clovis as Benny from Fallout New Vegas.', '75': 'Nora turns Flora, Trace, Natani and Keith into marketable plushies. (In light of the Flora plush announcement)', '76': 'Modern Ambassador Keith comes home to Natani and Laura waiting to start a romantic dinner with him.', '77': 'Keith and Laura dancing in tribal wear.', '78': 'Keith having a nightmare about his passed loved ones, and Natani comforting him', '79': "Flora's beans getting booped :3 ", '80': 'How did Knell acquire the sand fleas that she put in her sisters beds?', '81': 'Modern Trio as Tigers', '82': 'Modern AU trio dressed as Sonic the hedgehog characters', '83': 'Sythe, Maren, Karen, and Nibbly having a family dinner at a nice restaurant ', '84': 'Romulus/Remus Ref Sheet ', '85': 'Western and Eastern Basitins showing off their techniques at the annual inter-kingdom games.', '86': "Alaric, Alabaster and the Muscle head general as the Awakened Pillar Men from Jojo's Bizarre Adventures.", '87': 'Natani as a tough, hardboiled private eye in a detective noir setting. Keith walks in the door as the timid ingénue character with a case to solve.', '88': 'Laura lounges on a translucent blue whale inflatable pool toy, floating on the sea.', '89': 'Tiger Trace, Flora, Keith, & Natani lounging in a communal Kiedran bed.', '90': 'Flora bare booty appreciation suggestion as a Haiku: Human Pyramid. Flora is on top of you. Stargazing viewer.', '97': 'To make up for making them late on their last outing Mike has prepared a romantic valentine dinner for Hazel and he serves it to her with a kiss on her cheek.', '98': 'Modern Trio: Laura has a wardrobe malfunction on stream'}, 'Ends': 1739152962, 'SecondsLeft': 719}
+2025-02-09 19:50:52,390 - __main__ - INFO - Heartbeat: 65;13
+2025-02-09 19:51:02,390 - __main__ - INFO - Heartbeat: 68;30
+2025-02-09 19:52:06,664 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 19:52:06,933 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 19:52:06,935 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 19:52:06,935 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 19:52:06,993 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 19:52:06,993 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 19:52:06,993 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 19:52:06,993 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 19:52:06,994 - __main__ - INFO - Got message type: rollOk
+2025-02-09 19:52:06,994 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 19:52:06,994 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 19:52:06,994 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 19:52:06,994 - __main__ - INFO - Got message type: poll
+2025-02-09 19:52:06,994 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 2', 'Options': {'65': 'Wolf red(scarlet) dancing with Sythe after their little previous date. Either clubbing or more formal with a dress dance with Sythe is gently guiding her along and showing a lot of concern for her comfort.', '66': 'Dress Show 2: Natani, Sythe, and Red showing off some suits and other male outfits that Kathrin has made, while respectively Keith, Maren, and Raine each give their ratings!', '67': 'Natani cosplays Agent 007. Bond, James Bond', '68': 'Eris visits the trace mansion and indirectly asks if they might have seen their chimera project,', '69': 'Trace with long hair', '70': "A nervous Vixen Eric is being inspected by his brother Roderick. Who came by for a surprise visit, and sees, what he thinks is, Eric's newest acquisition.", '71': "Mike getting Hazel the rabbit a giant, elaborate bouquet for Valentine's Day", '72': 'Office Kat', '73': '"Lil Rabbit" has to sit and explain to the Northern Bastian\'s Father that he will a grandpa with the Mother chatting with her daughter.', '74': 'Clovis as Benny from Fallout New Vegas.', '75': 'Nora turns Flora, Trace, Natani and Keith into marketable plushies. (In light of the Flora plush announcement)', '76': 'Modern Ambassador Keith comes home to Natani and Laura waiting to start a romantic dinner with him.', '77': 'Keith and Laura dancing in tribal wear.', '78': 'Keith having a nightmare about his passed loved ones, and Natani comforting him', '79': "Flora's beans getting booped :3 ", '80': 'How did Knell acquire the sand fleas that she put in her sisters beds?', '81': 'Modern Trio as Tigers', '82': 'Modern AU trio dressed as Sonic the hedgehog characters', '83': 'Sythe, Maren, Karen, and Nibbly having a family dinner at a nice restaurant ', '84': 'Romulus/Remus Ref Sheet ', '85': 'Western and Eastern Basitins showing off their techniques at the annual inter-kingdom games.', '86': "Alaric, Alabaster and the Muscle head general as the Awakened Pillar Men from Jojo's Bizarre Adventures.", '87': 'Natani as a tough, hardboiled private eye in a detective noir setting. Keith walks in the door as the timid ingénue character with a case to solve.', '88': 'Laura lounges on a translucent blue whale inflatable pool toy, floating on the sea.', '89': 'Tiger Trace, Flora, Keith, & Natani lounging in a communal Kiedran bed.', '90': 'Flora bare booty appreciation suggestion as a Haiku: Human Pyramid. Flora is on top of you. Stargazing viewer.', '97': 'To make up for making them late on their last outing Mike has prepared a romantic valentine dinner for Hazel and he serves it to her with a kiss on her cheek.', '98': 'Modern Trio: Laura has a wardrobe malfunction on stream'}, 'Ends': 1739152962, 'SecondsLeft': 635}
+2025-02-09 19:52:12,388 - __main__ - INFO - Heartbeat: 76;51
+2025-02-09 19:52:22,388 - __main__ - INFO - Heartbeat: 76;53
+2025-02-09 19:52:32,388 - __main__ - INFO - Heartbeat: 76;54
+2025-02-09 19:52:42,388 - __main__ - INFO - Heartbeat: 78;55
+2025-02-09 19:52:52,388 - __main__ - INFO - Heartbeat: 77;56
+2025-02-09 20:04:04,799 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:04:05,013 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:04:05,015 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:04:05,015 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:04:05,070 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 20:04:05,070 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 20:04:05,070 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:04:05,070 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:04:05,071 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:04:05,071 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:04:05,071 - __main__ - INFO - Got message type: status
+2025-02-09 20:04:05,071 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 20:50:54,021 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:50:54,292 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:50:54,292 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:50:54,293 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:50:54,350 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 20:50:54,351 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 20:50:54,351 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:50:54,351 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:50:54,352 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:50:54,352 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:50:54,352 - __main__ - INFO - Got message type: status
+2025-02-09 20:50:54,353 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 20:51:02,391 - __main__ - INFO - Heartbeat: 68;44
+2025-02-09 20:51:03,388 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:51:03,596 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:51:03,597 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:51:03,597 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:51:03,654 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 20:51:03,654 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 20:51:03,655 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:51:03,655 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:51:03,655 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:51:03,655 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:51:03,655 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 20:51:03,655 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 20:51:03,655 - __main__ - INFO - Got message type: poll
+2025-02-09 20:51:03,655 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 3', 'Options': {'65': 'Good morning Proto-Flora/Kaylia', '66': 'Prequel to the Halloween sketch with Reni and Raine showing how the two of them first meet in kindergarten, with one shyly asking something along the lines of "do you like crystals?". Leading to them quickly becoming friends ', '67': 'Adira teaching Raine how to play the Violin.', '68': 'Amelia and Windstraw body pillows. Amelia’s is alluring and seductive. Windstraw’s tries to mimic Amelia’s but its a cute funny cat parody of it', '69': "Mermaid Laura washes ashore.  This time it's Keith that comes to her rescue.", '70': 'Sequel to Bottom-Fishing: Reni’s top is snagged by Laura and Flora, to her and Laura’s great embarrassment but Flora pouting over their comparative bust sizes.', '71': 'Rose exchanges housekeeping tips with Von Lycaon from Zenless zone zero ', '72': 'Kat is tasked to design a skirt for the Xcom viper lady,set in her workshop taking mesurments. She finds the strange anatomy a challenge to work with,especially for a creature with no legs and yet an extensive rear end.', '73': 'Nat and Zen as Mario and Luigi', '74': 'Maeve tries coffee and gets the zoomies and causes havoc around the tavern.', '75': 'Pinup of Laura and Natani as the driver & fire stoker of a steam train. Laura dressed smartly in her dungarees and cap, while Natani looks hot and sweaty with his overalls half off, holding a shovel', '76': 'Flora shows off her plushie to everyone! They are all low-key jealous, especially Natani...', '77': 'Amelia walks thru a snow blizzard to the Riftwall', '78': 'Good morning Karen', '79': "Trace and Flora notice you're feeling sad, so they both offer you a hug", '80': 'Continuation of Laura Therapy, with Laura being caught with a tied up Keith pillow ', '81': "Santa-Mike makes a New Year's resolution to get gender-swapped less, resulting in Evals waking up on the first of the year still a reindeer girl.", '82': 'Semi Modern Sequel to Breaking Decency Laws: Modern Keith and Alaric streak across the football field during the Super Bowl. Keith wonders how Alaric can talk him into these things.', '83': 'Sequel to Nayana and Koan AU', '84': "Valentine's: Mike gives Evals a lovely box of chocolates to show his love, followed by Evals having Theobromine poisoning because he is a dog ", '85': "Now busty but still male Keith casually wearing the other end of Natani's Binders of Holding so Natani doesn't have to deal with getting chatted up at the tavern. Naturally, its now Keith drawing the attention.", '86': 'Natani and 6 pack Kat working out together', '87': 'Conceptual idea for a Bear Keidran. ', '88': "Flat Fox Fashion 2: If Laura won't wear the top half of her bikini, maybe her *other half* will. Laura and Keith (begrudgingly, and in his fox form) model opposite halves of the same bikini.", '89': 'Rooftop Stargazing - Laura & Flora lying on a cabin roof while stargazing in the night', '90': 'Good Morning Human Nora', '97': "Keith's Boobhat Redux", '98': 'Maren grooming Raine'}, 'Ends': 1739156479, 'SecondsLeft': 616}
+2025-02-09 20:52:57,892 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:52:58,177 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:52:58,177 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:52:58,177 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:52:58,236 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 20:52:58,236 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 20:52:58,236 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:52:58,236 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:52:58,237 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:52:58,237 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:52:58,237 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 20:52:58,237 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 20:52:58,237 - __main__ - INFO - Got message type: poll
+2025-02-09 20:52:58,237 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 3', 'Options': {'65': 'Good morning Proto-Flora/Kaylia', '66': 'Prequel to the Halloween sketch with Reni and Raine showing how the two of them first meet in kindergarten, with one shyly asking something along the lines of "do you like crystals?". Leading to them quickly becoming friends ', '67': 'Adira teaching Raine how to play the Violin.', '68': 'Amelia and Windstraw body pillows. Amelia’s is alluring and seductive. Windstraw’s tries to mimic Amelia’s but its a cute funny cat parody of it', '69': "Mermaid Laura washes ashore.  This time it's Keith that comes to her rescue.", '70': 'Sequel to Bottom-Fishing: Reni’s top is snagged by Laura and Flora, to her and Laura’s great embarrassment but Flora pouting over their comparative bust sizes.', '71': 'Rose exchanges housekeeping tips with Von Lycaon from Zenless zone zero ', '72': 'Kat is tasked to design a skirt for the Xcom viper lady,set in her workshop taking mesurments. She finds the strange anatomy a challenge to work with,especially for a creature with no legs and yet an extensive rear end.', '73': 'Nat and Zen as Mario and Luigi', '74': 'Maeve tries coffee and gets the zoomies and causes havoc around the tavern.', '75': 'Pinup of Laura and Natani as the driver & fire stoker of a steam train. Laura dressed smartly in her dungarees and cap, while Natani looks hot and sweaty with his overalls half off, holding a shovel', '76': 'Flora shows off her plushie to everyone! They are all low-key jealous, especially Natani...', '77': 'Amelia walks thru a snow blizzard to the Riftwall', '78': 'Good morning Karen', '79': "Trace and Flora notice you're feeling sad, so they both offer you a hug", '80': 'Continuation of Laura Therapy, with Laura being caught with a tied up Keith pillow ', '81': "Santa-Mike makes a New Year's resolution to get gender-swapped less, resulting in Evals waking up on the first of the year still a reindeer girl.", '82': 'Semi Modern Sequel to Breaking Decency Laws: Modern Keith and Alaric streak across the football field during the Super Bowl. Keith wonders how Alaric can talk him into these things.', '83': 'Sequel to Nayana and Koan AU', '84': "Valentine's: Mike gives Evals a lovely box of chocolates to show his love, followed by Evals having Theobromine poisoning because he is a dog ", '85': "Now busty but still male Keith casually wearing the other end of Natani's Binders of Holding so Natani doesn't have to deal with getting chatted up at the tavern. Naturally, its now Keith drawing the attention.", '86': 'Natani and 6 pack Kat working out together', '87': 'Conceptual idea for a Bear Keidran. ', '88': "Flat Fox Fashion 2: If Laura won't wear the top half of her bikini, maybe her *other half* will. Laura and Keith (begrudgingly, and in his fox form) model opposite halves of the same bikini.", '89': 'Rooftop Stargazing - Laura & Flora lying on a cabin roof while stargazing in the night', '90': 'Good Morning Human Nora', '97': "Keith's Boobhat Redux", '98': 'Maren grooming Raine'}, 'Ends': 1739156479, 'SecondsLeft': 501}
+2025-02-09 20:53:07,122 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:53:07,342 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:53:07,343 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:53:07,344 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:53:07,402 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 20:53:07,402 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 20:53:07,402 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:53:07,402 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:53:07,402 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:53:07,403 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:53:07,403 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 20:53:07,403 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 20:53:07,403 - __main__ - INFO - Got message type: poll
+2025-02-09 20:53:07,403 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 3', 'Options': {'65': 'Good morning Proto-Flora/Kaylia', '66': 'Prequel to the Halloween sketch with Reni and Raine showing how the two of them first meet in kindergarten, with one shyly asking something along the lines of "do you like crystals?". Leading to them quickly becoming friends ', '67': 'Adira teaching Raine how to play the Violin.', '68': 'Amelia and Windstraw body pillows. Amelia’s is alluring and seductive. Windstraw’s tries to mimic Amelia’s but its a cute funny cat parody of it', '69': "Mermaid Laura washes ashore.  This time it's Keith that comes to her rescue.", '70': 'Sequel to Bottom-Fishing: Reni’s top is snagged by Laura and Flora, to her and Laura’s great embarrassment but Flora pouting over their comparative bust sizes.', '71': 'Rose exchanges housekeeping tips with Von Lycaon from Zenless zone zero ', '72': 'Kat is tasked to design a skirt for the Xcom viper lady,set in her workshop taking mesurments. She finds the strange anatomy a challenge to work with,especially for a creature with no legs and yet an extensive rear end.', '73': 'Nat and Zen as Mario and Luigi', '74': 'Maeve tries coffee and gets the zoomies and causes havoc around the tavern.', '75': 'Pinup of Laura and Natani as the driver & fire stoker of a steam train. Laura dressed smartly in her dungarees and cap, while Natani looks hot and sweaty with his overalls half off, holding a shovel', '76': 'Flora shows off her plushie to everyone! They are all low-key jealous, especially Natani...', '77': 'Amelia walks thru a snow blizzard to the Riftwall', '78': 'Good morning Karen', '79': "Trace and Flora notice you're feeling sad, so they both offer you a hug", '80': 'Continuation of Laura Therapy, with Laura being caught with a tied up Keith pillow ', '81': "Santa-Mike makes a New Year's resolution to get gender-swapped less, resulting in Evals waking up on the first of the year still a reindeer girl.", '82': 'Semi Modern Sequel to Breaking Decency Laws: Modern Keith and Alaric streak across the football field during the Super Bowl. Keith wonders how Alaric can talk him into these things.', '83': 'Sequel to Nayana and Koan AU', '84': "Valentine's: Mike gives Evals a lovely box of chocolates to show his love, followed by Evals having Theobromine poisoning because he is a dog ", '85': "Now busty but still male Keith casually wearing the other end of Natani's Binders of Holding so Natani doesn't have to deal with getting chatted up at the tavern. Naturally, its now Keith drawing the attention.", '86': 'Natani and 6 pack Kat working out together', '87': 'Conceptual idea for a Bear Keidran. ', '88': "Flat Fox Fashion 2: If Laura won't wear the top half of her bikini, maybe her *other half* will. Laura and Keith (begrudgingly, and in his fox form) model opposite halves of the same bikini.", '89': 'Rooftop Stargazing - Laura & Flora lying on a cabin roof while stargazing in the night', '90': 'Good Morning Human Nora', '97': "Keith's Boobhat Redux", '98': 'Maren grooming Raine'}, 'Ends': 1739156479, 'SecondsLeft': 492}
+2025-02-09 20:53:07,403 - __main__ - INFO - Saving to ./polls/Round_32025_02_09__21_01_19.json
+2025-02-09 20:53:12,394 - __main__ - INFO - Heartbeat: 72;55
+2025-02-09 20:53:22,393 - __main__ - INFO - Heartbeat: 73;56
+2025-02-09 20:53:32,393 - __main__ - INFO - Heartbeat: 73;57
+2025-02-09 20:53:42,394 - __main__ - INFO - Heartbeat: 72;56
+2025-02-09 20:53:47,135 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 20:53:47,348 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 20:53:47,348 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 20:53:47,348 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 20:53:47,405 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 20:53:47,405 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 20:53:47,405 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 20:53:47,405 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 20:53:47,405 - __main__ - INFO - Got message type: rollOk
+2025-02-09 20:53:47,406 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 20:53:47,406 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 20:53:47,406 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 20:53:47,406 - __main__ - INFO - Got message type: poll
+2025-02-09 20:53:47,406 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 3', 'Options': {'65': 'Good morning Proto-Flora/Kaylia', '66': 'Prequel to the Halloween sketch with Reni and Raine showing how the two of them first meet in kindergarten, with one shyly asking something along the lines of "do you like crystals?". Leading to them quickly becoming friends ', '67': 'Adira teaching Raine how to play the Violin.', '68': 'Amelia and Windstraw body pillows. Amelia’s is alluring and seductive. Windstraw’s tries to mimic Amelia’s but its a cute funny cat parody of it', '69': "Mermaid Laura washes ashore.  This time it's Keith that comes to her rescue.", '70': 'Sequel to Bottom-Fishing: Reni’s top is snagged by Laura and Flora, to her and Laura’s great embarrassment but Flora pouting over their comparative bust sizes.', '71': 'Rose exchanges housekeeping tips with Von Lycaon from Zenless zone zero ', '72': 'Kat is tasked to design a skirt for the Xcom viper lady,set in her workshop taking mesurments. She finds the strange anatomy a challenge to work with,especially for a creature with no legs and yet an extensive rear end.', '73': 'Nat and Zen as Mario and Luigi', '74': 'Maeve tries coffee and gets the zoomies and causes havoc around the tavern.', '75': 'Pinup of Laura and Natani as the driver & fire stoker of a steam train. Laura dressed smartly in her dungarees and cap, while Natani looks hot and sweaty with his overalls half off, holding a shovel', '76': 'Flora shows off her plushie to everyone! They are all low-key jealous, especially Natani...', '77': 'Amelia walks thru a snow blizzard to the Riftwall', '78': 'Good morning Karen', '79': "Trace and Flora notice you're feeling sad, so they both offer you a hug", '80': 'Continuation of Laura Therapy, with Laura being caught with a tied up Keith pillow ', '81': "Santa-Mike makes a New Year's resolution to get gender-swapped less, resulting in Evals waking up on the first of the year still a reindeer girl.", '82': 'Semi Modern Sequel to Breaking Decency Laws: Modern Keith and Alaric streak across the football field during the Super Bowl. Keith wonders how Alaric can talk him into these things.', '83': 'Sequel to Nayana and Koan AU', '84': "Valentine's: Mike gives Evals a lovely box of chocolates to show his love, followed by Evals having Theobromine poisoning because he is a dog ", '85': "Now busty but still male Keith casually wearing the other end of Natani's Binders of Holding so Natani doesn't have to deal with getting chatted up at the tavern. Naturally, its now Keith drawing the attention.", '86': 'Natani and 6 pack Kat working out together', '87': 'Conceptual idea for a Bear Keidran. ', '88': "Flat Fox Fashion 2: If Laura won't wear the top half of her bikini, maybe her *other half* will. Laura and Keith (begrudgingly, and in his fox form) model opposite halves of the same bikini.", '89': 'Rooftop Stargazing - Laura & Flora lying on a cabin roof while stargazing in the night', '90': 'Good Morning Human Nora', '97': "Keith's Boobhat Redux", '98': 'Maren grooming Raine'}, 'Ends': 1739156479, 'SecondsLeft': 452}
+2025-02-09 20:53:47,406 - __main__ - INFO - Saving to ./polls/Round_3_2025_02_09__21_01_19.json
+2025-02-09 20:53:52,391 - __main__ - INFO - Heartbeat: 72;56
+2025-02-09 20:54:02,391 - __main__ - INFO - Heartbeat: 72;58
+2025-02-09 20:54:12,391 - __main__ - INFO - Heartbeat: 73;59
+2025-02-09 20:54:22,390 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:54:32,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:54:42,391 - __main__ - INFO - Heartbeat: 75;61
+2025-02-09 20:54:52,392 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:02,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:12,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:22,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:32,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:42,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:55:52,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:56:02,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 20:56:12,391 - __main__ - INFO - Heartbeat: 75;62
+2025-02-09 21:07:18,367 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 21:07:18,658 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 21:07:18,659 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 21:07:18,659 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 21:07:18,717 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 21:07:18,717 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 21:07:18,718 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 21:07:18,718 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 21:07:18,718 - __main__ - INFO - Got message type: rollOk
+2025-02-09 21:07:18,718 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 21:07:18,718 - __main__ - INFO - Got message type: status
+2025-02-09 21:07:18,718 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 21:07:22,393 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:07:32,393 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:07:42,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:07:52,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:08:02,393 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:08:12,393 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:08:22,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:08:32,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:08:42,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:08:52,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:02,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:12,391 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:22,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:32,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:42,392 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:09:52,393 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:10:02,391 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:16:10,054 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 21:16:10,283 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 21:16:10,284 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 21:16:10,284 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 21:16:10,342 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 21:16:10,343 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 21:16:10,343 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 21:16:10,343 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 21:16:10,343 - __main__ - INFO - Got message type: rollOk
+2025-02-09 21:16:10,343 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 21:16:10,344 - __main__ - INFO - Got message type: status
+2025-02-09 21:16:10,344 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 21:16:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:16:22,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:16:32,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:16:42,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:16:52,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:02,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:12,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:22,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:32,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:42,397 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:17:52,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:02,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:22,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:32,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:42,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:18:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:02,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:22,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:32,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:42,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:19:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:02,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:22,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:32,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:42,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:20:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:02,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:12,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:22,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:32,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:42,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:21:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:02,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:22,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:32,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:42,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:22:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:02,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:22,399 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:32,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:42,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:23:52,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:24:02,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:24:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:24:22,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:24:32,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:24:42,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:24:52,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:02,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:12,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:22,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:32,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:42,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:25:52,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:02,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:22,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:32,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:42,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:26:52,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:02,392 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:12,393 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:22,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:32,400 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:42,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:27:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:02,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:12,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:22,399 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:32,400 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:42,394 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:28:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:02,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:12,393 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:22,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:32,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:42,398 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:29:52,390 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:02,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:12,393 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:22,398 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:32,400 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:42,399 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:30:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:02,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:12,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:22,398 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:32,398 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:42,399 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:31:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:02,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:12,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:22,399 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:32,399 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:42,398 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:32:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:33:02,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:33:12,391 - __main__ - INFO - Heartbeat: 62;0
+2025-02-09 21:33:22,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:33:32,395 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:33:42,393 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:33:52,391 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:34:02,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:34:12,392 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:34:22,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:34:32,389 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 21:34:42,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:34:52,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:02,390 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:22,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:32,398 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:42,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:35:52,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:36:02,389 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:36:12,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:36:22,396 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:36:32,389 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:36:42,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:36:52,389 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:02,389 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:22,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:32,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:42,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:37:52,389 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:38:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:38:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:38:22,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:38:32,389 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 21:38:42,396 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 21:38:52,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 21:39:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:39:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:39:22,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:39:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:39:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:39:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:22,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:32,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:42,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:40:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:22,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:41:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:22,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:42:52,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:43:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:43:12,393 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:43:22,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:43:32,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:43:42,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:43:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:22,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:32,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:42,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:44:52,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 21:45:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:45:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:45:22,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:45:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:45:42,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:45:52,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:46:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:46:12,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:46:22,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:46:32,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:46:42,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:46:52,397 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:12,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:22,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:32,398 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:42,395 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:47:52,399 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:48:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:48:12,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:48:22,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:48:32,394 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:48:42,394 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:48:52,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:49:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:49:12,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:49:22,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:49:32,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:49:42,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:49:52,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:50:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:50:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:50:22,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:50:32,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:50:42,391 - __main__ - INFO - Heartbeat: 60;0
+2025-02-09 21:50:52,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:51:02,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:51:12,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:51:22,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:51:32,399 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:51:42,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:51:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:22,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:32,397 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:52:52,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:22,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:42,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:53:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:22,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:32,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:42,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:54:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:55:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:55:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:55:22,395 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:55:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:55:42,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:55:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:22,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:56:52,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:22,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:32,401 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:57:52,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:22,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:58:52,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:59:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:59:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:59:22,394 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:59:32,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 21:59:42,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 21:59:52,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:00:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:00:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:00:22,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:00:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:00:42,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:00:52,399 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:01:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:01:12,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:01:22,393 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 22:01:32,392 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 22:01:42,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 22:01:52,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:22,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:42,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:02:52,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:03:02,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:03:12,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:03:22,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:03:32,399 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:03:42,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:03:52,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:12,394 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:22,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:32,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:42,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:04:52,398 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:02,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:12,393 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:22,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:32,400 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:42,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:05:52,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:02,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:12,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:22,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:32,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:06:52,397 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:02,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:12,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:22,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:32,399 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:07:52,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:08:02,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:08:12,394 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:08:22,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:08:32,400 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:08:42,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:08:52,400 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:09:02,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:09:12,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:09:22,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:09:32,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:09:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:09:52,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:10:02,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:10:12,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:10:22,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:10:32,401 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:10:42,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:10:52,396 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:11:02,391 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:11:12,393 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:11:22,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:11:32,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:11:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:11:52,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:02,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:12,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:22,391 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:32,400 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:12:52,399 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:02,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:12,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:22,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:32,398 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:42,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:13:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:14:02,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:14:12,392 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 22:14:22,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:14:32,399 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:14:42,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:14:52,398 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:15:02,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:15:12,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:15:22,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:15:32,398 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:15:42,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:15:52,398 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:16:02,389 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:16:12,392 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:16:22,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:16:32,397 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:16:42,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:16:52,398 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:17:02,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:17:12,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:17:22,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:17:32,399 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:17:42,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:17:52,398 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:18:02,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:18:12,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:18:22,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:18:32,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:18:42,391 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:18:52,397 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:19:02,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:19:12,391 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:19:22,398 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:19:32,399 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:19:42,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:19:52,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:20:02,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:21:16,388 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:21:16,388 - __main__ - INFO - Got user suggestion: raine
+
+2025-02-09 22:21:16,388 - __main__ - INFO - Got user suggestion: flora
+
+2025-02-09 22:21:16,389 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:21:16,669 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:21:16,670 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:21:16,671 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:21:16,729 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 22:21:16,729 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 22:21:16,730 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:21:16,730 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:21:16,730 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:21:16,730 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:21:16,730 - __main__ - INFO - Got message type: status
+2025-02-09 22:21:16,730 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 22:21:22,395 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:21:32,394 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:21:38,926 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:21:38,926 - __main__ - INFO - Got user suggestion: raine
+
+2025-02-09 22:21:38,926 - __main__ - INFO - Got user suggestion: flora
+
+2025-02-09 22:21:38,926 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:21:39,151 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:21:39,152 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:21:39,152 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:21:39,210 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 22:21:39,210 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 22:21:39,210 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:21:39,210 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:21:39,211 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:21:39,211 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:21:39,211 - __main__ - INFO - Got message type: status
+2025-02-09 22:21:39,211 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 22:21:42,392 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:21:47,732 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:21:47,732 - __main__ - INFO - Got user suggestion: raine
+2025-02-09 22:21:47,732 - __main__ - INFO - Got user suggestion: flora
+2025-02-09 22:21:47,733 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:21:47,959 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:21:47,960 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:21:47,960 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:21:48,018 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-09 22:21:48,018 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-09 22:21:48,018 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:21:48,019 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:21:48,019 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:21:48,019 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:21:48,019 - __main__ - INFO - Got message type: status
+2025-02-09 22:21:48,019 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-09 22:21:52,394 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 22:22:02,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:22:12,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:22:22,399 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:22:32,393 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:22:42,398 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:22:52,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:02,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:12,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:22,399 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:32,392 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:42,399 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 22:23:52,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:24:02,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:24:12,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:24:22,394 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 22:24:32,392 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:24:42,397 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:24:52,392 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:25:02,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:25:12,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:25:22,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:25:32,392 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:25:42,394 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:25:52,393 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:02,391 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:12,392 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:22,399 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:32,391 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:42,398 - __main__ - INFO - Heartbeat: 54;0
+2025-02-09 22:26:52,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:27:02,391 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:27:12,392 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:27:22,398 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:27:32,392 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:27:42,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:27:52,392 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:28:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:28:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:28:22,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:28:32,392 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:28:42,396 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:28:52,392 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:29:02,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:29:12,392 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:29:22,397 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:29:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:29:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:29:52,392 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:22,397 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:42,400 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:30:52,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:31:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:31:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:31:22,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:31:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:31:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:31:52,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:32:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:32:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:32:22,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:32:32,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:32:42,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:32:52,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:33:02,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:33:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:33:22,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:33:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:33:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:33:52,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:34:02,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:34:12,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:34:22,399 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:34:32,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:34:42,399 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:34:52,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:35:02,391 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:35:12,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:35:22,398 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:35:32,390 - __main__ - INFO - Heartbeat: 51;0
+2025-02-09 22:35:42,392 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:35:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:32,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:42,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:36:52,391 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:37:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:37:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:37:22,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:37:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:37:42,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:37:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:22,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:42,393 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:38:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:22,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:39:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:42,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:40:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:42,400 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:41:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:42,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:42:52,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:02,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:22,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:32,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:43:52,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:32,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:42,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:44:52,399 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:22,397 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:32,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:42,397 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:45:52,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:46:02,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:46:12,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:46:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:46:32,391 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:46:42,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:46:52,398 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:47:02,390 - __main__ - INFO - Heartbeat: 53;0
+2025-02-09 22:47:12,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:47:22,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:47:32,398 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:47:42,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:47:52,391 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:48:02,400 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:48:12,392 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:48:22,390 - __main__ - INFO - Heartbeat: 52;0
+2025-02-09 22:48:32,391 - __main__ - INFO - Heartbeat: 53;5
+2025-02-09 22:48:42,390 - __main__ - INFO - Heartbeat: 58;25
+2025-02-09 22:48:52,390 - __main__ - INFO - Heartbeat: 61;33
+2025-02-09 22:49:02,390 - __main__ - INFO - Heartbeat: 58;36
+2025-02-09 22:49:12,390 - __main__ - INFO - Heartbeat: 60;38
+2025-02-09 22:49:22,390 - __main__ - INFO - Heartbeat: 62;43
+2025-02-09 22:49:32,390 - __main__ - INFO - Heartbeat: 62;44
+2025-02-09 22:49:42,390 - __main__ - INFO - Heartbeat: 63;44
+2025-02-09 22:49:52,390 - __main__ - INFO - Heartbeat: 63;46
+2025-02-09 22:50:02,390 - __main__ - INFO - Heartbeat: 63;48
+2025-02-09 22:50:12,391 - __main__ - INFO - Heartbeat: 63;48
+2025-02-09 22:50:22,391 - __main__ - INFO - Heartbeat: 63;48
+2025-02-09 22:50:32,391 - __main__ - INFO - Heartbeat: 64;49
+2025-02-09 22:50:42,391 - __main__ - INFO - Heartbeat: 63;48
+2025-02-09 22:50:52,391 - __main__ - INFO - Heartbeat: 63;48
+2025-02-09 22:51:02,391 - __main__ - INFO - Heartbeat: 64;48
+2025-02-09 22:51:12,391 - __main__ - INFO - Heartbeat: 65;49
+2025-02-09 22:51:22,391 - __main__ - INFO - Heartbeat: 66;52
+2025-02-09 22:51:32,391 - __main__ - INFO - Heartbeat: 67;52
+2025-02-09 22:51:42,391 - __main__ - INFO - Heartbeat: 67;53
+2025-02-09 22:51:52,391 - __main__ - INFO - Heartbeat: 67;53
+2025-02-09 22:52:02,391 - __main__ - INFO - Heartbeat: 68;54
+2025-02-09 22:52:12,391 - __main__ - INFO - Heartbeat: 69;54
+2025-02-09 22:52:22,391 - __main__ - INFO - Heartbeat: 70;54
+2025-02-09 22:52:32,390 - __main__ - INFO - Heartbeat: 70;54
+2025-02-09 22:52:42,391 - __main__ - INFO - Heartbeat: 70;55
+2025-02-09 22:52:52,390 - __main__ - INFO - Heartbeat: 69;55
+2025-02-09 22:53:02,391 - __main__ - INFO - Heartbeat: 69;55
+2025-02-09 22:53:12,391 - __main__ - INFO - Heartbeat: 70;56
+2025-02-09 22:53:22,391 - __main__ - INFO - Heartbeat: 70;56
+2025-02-09 22:53:32,390 - __main__ - INFO - Heartbeat: 70;56
+2025-02-09 22:53:42,391 - __main__ - INFO - Heartbeat: 70;57
+2025-02-09 22:53:52,391 - __main__ - INFO - Heartbeat: 70;57
+2025-02-09 22:54:02,391 - __main__ - INFO - Heartbeat: 70;57
+2025-02-09 22:54:12,392 - __main__ - INFO - Heartbeat: 71;58
+2025-02-09 22:54:22,391 - __main__ - INFO - Heartbeat: 71;58
+2025-02-09 22:54:32,391 - __main__ - INFO - Heartbeat: 72;58
+2025-02-09 22:54:42,391 - __main__ - INFO - Heartbeat: 72;59
+2025-02-09 22:54:52,391 - __main__ - INFO - Heartbeat: 72;59
+2025-02-09 22:55:02,391 - __main__ - INFO - Heartbeat: 73;59
+2025-02-09 22:55:12,391 - __main__ - INFO - Heartbeat: 73;60
+2025-02-09 22:55:22,391 - __main__ - INFO - Heartbeat: 73;60
+2025-02-09 22:55:32,391 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 22:55:42,390 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 22:56:04,186 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:56:04,186 - __main__ - INFO - Got user suggestion: raine
+2025-02-09 22:56:04,186 - __main__ - INFO - Got user suggestion: flora
+2025-02-09 22:56:04,186 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:56:04,408 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:56:04,409 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:56:04,410 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:56:04,467 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 22:56:04,467 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 22:56:04,468 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:56:04,468 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:56:04,468 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:56:04,468 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:56:04,468 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 22:56:04,468 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 22:56:04,468 - __main__ - INFO - Got message type: poll
+2025-02-09 22:56:04,468 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 4', 'Options': {'65': "The sequel to Very Vixen Mike & Erilas, Erilas decides to take VV Mike on a date and has her wear one of her spare casual dresses, much to VV Mike's embarrassment and Erilas' happiness.", '66': "Lynx Reed being told she's pregnant with the Prince's children, with the obvious reaction, thankfully it was just a dream", '67': 'Trace walks in on Saria and Rose in a (unintentional) compromising position. Trace being supportive makes it much more awkward', '68': 'The Great Chicken Heist.  Laura Schemes, Capt. Jenny and Mike pull off a heist on a large scale chicken farm.', '69': 'Scene-girl Kat', '70': 'Trace Transformed into a Magical Tigress Girl', '71': 'Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.', '72': "Follow up to Grand Templar Laura 2 and King Madness. Madelyn meets with Grand Templar Laura to negotiate Keith's return, but for some reason Keith seems mysteriously reluctant to leave.", '73': "Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)", '74': 'Half Kind Lt. Reed: the collars lingering side effects are impossible to conceal now - Alice doesn’t seem too concerned about it. ', '75': 'A police mug shot of Skater Kat', '76': 'Raccoon girl and Officer Vicky on another date, showing her around the park maybe? ', '77': 'AU: A Keidran terminator is sent back in time to protect Flora and unborn baby', '78': 'Keith dressed as a British Admiral, Full Dress, Circa 1805, during the Napoleonic wars, sword aloft as he commands his ship to battle.', '79': 'Very Tod Mike - our boy Mike, but manlier', '80': 'Modern Keith and Natani take Laura to the gun range. She’s terrifyingly good at it.', '81': 'Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.', '82': 'Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!', '83': 'Keith being a pretty princess ', '84': 'Windstraw and Amelia play 2-player spin the bottle. Windstraw doesn’t know the rules and drinks from the bottle when it lands on her instead.', '85': 'Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.', '86': 'Martlet and Ceroba, from Undertale Yellow, find themselves in Mekkan. Unsure of how they got there or where their friends are, they go on an adventure together to find out.', '87': 'Carver gets his head pats', '88': 'A happy modern Flora points to the Flora plushy announcement on modern trio\'s computer screen, proudly announcing, "See? It\'s me! I\'m sure he\'ll do ones of you guys, too, but he did ME first!" (or something like that)', '89': 'Sythe is ammused watching wolf Maren trying to lick a snowflake off her muzzle for the first time.', '90': 'Valentine Magical Lynx Dates: Both in jewelry only, Prince offers magical date dishes (fruit!) to blushy Reed. "We even asked our Edinmire allies to help against Templar smugglers!"', '97': 'Amelia and Windstraw enjoying a last pint of ale after closing the tavern for the night', '98': 'Trace and Laura having a moment of quiet intimacy and romance in bed, conveying feelings of love and devotion between them. (Kiss included)'}, 'Ends': 1739163622, 'SecondsLeft': 258}
+2025-02-09 22:56:04,469 - __main__ - INFO - Saving to ./polls/Round_4_2025_02_09__23_00_22.json
+2025-02-09 22:56:12,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:56:22,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:56:32,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:56:42,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:56:52,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:57:02,390 - __main__ - INFO - Heartbeat: 74;61
+2025-02-09 22:57:12,390 - __main__ - INFO - Heartbeat: 74;62
+2025-02-09 22:57:22,391 - __main__ - INFO - Heartbeat: 74;62
+2025-02-09 22:57:32,391 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:57:40,834 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:57:40,834 - __main__ - INFO - Got user suggestion: alaric
+2025-02-09 22:57:40,834 - __main__ - INFO - Got user suggestion: raine
+2025-02-09 22:57:40,834 - __main__ - INFO - Got user suggestion: flora
+2025-02-09 22:57:40,834 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:57:41,062 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:57:41,063 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:57:41,063 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:57:41,121 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 22:57:41,121 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 22:57:41,121 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:57:41,121 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:57:41,121 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:57:41,122 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:57:41,122 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 22:57:41,122 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 22:57:41,122 - __main__ - INFO - Got message type: poll
+2025-02-09 22:57:41,123 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 4', 'Options': {'65': "The sequel to Very Vixen Mike & Erilas, Erilas decides to take VV Mike on a date and has her wear one of her spare casual dresses, much to VV Mike's embarrassment and Erilas' happiness.", '66': "Lynx Reed being told she's pregnant with the Prince's children, with the obvious reaction, thankfully it was just a dream", '67': 'Trace walks in on Saria and Rose in a (unintentional) compromising position. Trace being supportive makes it much more awkward', '68': 'The Great Chicken Heist.  Laura Schemes, Capt. Jenny and Mike pull off a heist on a large scale chicken farm.', '69': 'Scene-girl Kat', '70': 'Trace Transformed into a Magical Tigress Girl', '71': 'Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.', '72': "Follow up to Grand Templar Laura 2 and King Madness. Madelyn meets with Grand Templar Laura to negotiate Keith's return, but for some reason Keith seems mysteriously reluctant to leave.", '73': "Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)", '74': 'Half Kind Lt. Reed: the collars lingering side effects are impossible to conceal now - Alice doesn’t seem too concerned about it. ', '75': 'A police mug shot of Skater Kat', '76': 'Raccoon girl and Officer Vicky on another date, showing her around the park maybe? ', '77': 'AU: A Keidran terminator is sent back in time to protect Flora and unborn baby', '78': 'Keith dressed as a British Admiral, Full Dress, Circa 1805, during the Napoleonic wars, sword aloft as he commands his ship to battle.', '79': 'Very Tod Mike - our boy Mike, but manlier', '80': 'Modern Keith and Natani take Laura to the gun range. She’s terrifyingly good at it.', '81': 'Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.', '82': 'Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!', '83': 'Keith being a pretty princess ', '84': 'Windstraw and Amelia play 2-player spin the bottle. Windstraw doesn’t know the rules and drinks from the bottle when it lands on her instead.', '85': 'Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.', '86': 'Martlet and Ceroba, from Undertale Yellow, find themselves in Mekkan. Unsure of how they got there or where their friends are, they go on an adventure together to find out.', '87': 'Carver gets his head pats', '88': 'A happy modern Flora points to the Flora plushy announcement on modern trio\'s computer screen, proudly announcing, "See? It\'s me! I\'m sure he\'ll do ones of you guys, too, but he did ME first!" (or something like that)', '89': 'Sythe is ammused watching wolf Maren trying to lick a snowflake off her muzzle for the first time.', '90': 'Valentine Magical Lynx Dates: Both in jewelry only, Prince offers magical date dishes (fruit!) to blushy Reed. "We even asked our Edinmire allies to help against Templar smugglers!"', '97': 'Amelia and Windstraw enjoying a last pint of ale after closing the tavern for the night', '98': 'Trace and Laura having a moment of quiet intimacy and romance in bed, conveying feelings of love and devotion between them. (Kiss included)'}, 'Ends': 1739163622, 'SecondsLeft': 161}
+2025-02-09 22:57:41,123 - __main__ - INFO - Saving to ./polls/Round_4_2025_02_09__23_00_22.json
+2025-02-09 22:57:42,393 - __main__ - INFO - Heartbeat: 75;61
+2025-02-09 22:57:52,393 - __main__ - INFO - Heartbeat: 75;62
+2025-02-09 22:58:02,393 - __main__ - INFO - Heartbeat: 74;62
+2025-02-09 22:58:12,391 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:58:22,391 - __main__ - INFO - Heartbeat: 72;60
+2025-02-09 22:58:32,800 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:58:32,800 - __main__ - INFO - Got user suggestion: alaric
+2025-02-09 22:58:32,800 - __main__ - INFO - Got user suggestion: raine
+2025-02-09 22:58:32,800 - __main__ - INFO - Got user suggestion: flora
+2025-02-09 22:58:32,800 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 22:58:33,011 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 22:58:33,012 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 22:58:33,012 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 22:58:33,070 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 22:58:33,071 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 22:58:33,071 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 22:58:33,071 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 22:58:33,071 - __main__ - INFO - Got message type: rollOk
+2025-02-09 22:58:33,071 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 22:58:33,071 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 22:58:33,071 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 22:58:33,072 - __main__ - INFO - Got message type: poll
+2025-02-09 22:58:33,072 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 4', 'Options': {'65': "The sequel to Very Vixen Mike & Erilas, Erilas decides to take VV Mike on a date and has her wear one of her spare casual dresses, much to VV Mike's embarrassment and Erilas' happiness.", '66': "Lynx Reed being told she's pregnant with the Prince's children, with the obvious reaction, thankfully it was just a dream", '67': 'Trace walks in on Saria and Rose in a (unintentional) compromising position. Trace being supportive makes it much more awkward', '68': 'The Great Chicken Heist.  Laura Schemes, Capt. Jenny and Mike pull off a heist on a large scale chicken farm.', '69': 'Scene-girl Kat', '70': 'Trace Transformed into a Magical Tigress Girl', '71': 'Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.', '72': "Follow up to Grand Templar Laura 2 and King Madness. Madelyn meets with Grand Templar Laura to negotiate Keith's return, but for some reason Keith seems mysteriously reluctant to leave.", '73': "Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)", '74': 'Half Kind Lt. Reed: the collars lingering side effects are impossible to conceal now - Alice doesn’t seem too concerned about it. ', '75': 'A police mug shot of Skater Kat', '76': 'Raccoon girl and Officer Vicky on another date, showing her around the park maybe? ', '77': 'AU: A Keidran terminator is sent back in time to protect Flora and unborn baby', '78': 'Keith dressed as a British Admiral, Full Dress, Circa 1805, during the Napoleonic wars, sword aloft as he commands his ship to battle.', '79': 'Very Tod Mike - our boy Mike, but manlier', '80': 'Modern Keith and Natani take Laura to the gun range. She’s terrifyingly good at it.', '81': 'Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.', '82': 'Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!', '83': 'Keith being a pretty princess ', '84': 'Windstraw and Amelia play 2-player spin the bottle. Windstraw doesn’t know the rules and drinks from the bottle when it lands on her instead.', '85': 'Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.', '86': 'Martlet and Ceroba, from Undertale Yellow, find themselves in Mekkan. Unsure of how they got there or where their friends are, they go on an adventure together to find out.', '87': 'Carver gets his head pats', '88': 'A happy modern Flora points to the Flora plushy announcement on modern trio\'s computer screen, proudly announcing, "See? It\'s me! I\'m sure he\'ll do ones of you guys, too, but he did ME first!" (or something like that)', '89': 'Sythe is ammused watching wolf Maren trying to lick a snowflake off her muzzle for the first time.', '90': 'Valentine Magical Lynx Dates: Both in jewelry only, Prince offers magical date dishes (fruit!) to blushy Reed. "We even asked our Edinmire allies to help against Templar smugglers!"', '97': 'Amelia and Windstraw enjoying a last pint of ale after closing the tavern for the night', '98': 'Trace and Laura having a moment of quiet intimacy and romance in bed, conveying feelings of love and devotion between them. (Kiss included)'}, 'Ends': 1739163622, 'SecondsLeft': 109}
+2025-02-09 22:58:33,072 - __main__ - INFO - Saving to ./polls/Round_4_2025_02_09__23_00_22.json
+2025-02-09 22:58:42,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:58:52,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:59:02,390 - __main__ - INFO - Heartbeat: 73;61
+2025-02-09 22:59:12,390 - __main__ - INFO - Heartbeat: 73;62
+2025-02-09 22:59:22,390 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 22:59:32,390 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 22:59:42,391 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 22:59:52,391 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 22:59:59,821 - __main__ - INFO - Reading suggestion file: suggs.txt
+2025-02-09 22:59:59,821 - __main__ - INFO - Got user suggestion: alaric
+2025-02-09 22:59:59,821 - __main__ - INFO - Got user suggestion: raine
+2025-02-09 22:59:59,821 - __main__ - INFO - Got user suggestion: flora
+2025-02-09 22:59:59,821 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-09 23:00:00,039 - __main__ - INFO - Authenticating as CatDr2QcAVImnFiI3td3BYQ2PWLywJgf
+2025-02-09 23:00:00,040 - __main__ - INFO - Got message type: reqAuth
+2025-02-09 23:00:00,040 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-09 23:00:00,097 - __main__ - INFO - Got message type: sessionPrimary
+2025-02-09 23:00:00,097 - __main__ - INFO - {'Mtype': 'sessionPrimary'}
+2025-02-09 23:00:00,097 - __main__ - INFO - Got message type: blacklistOk
+2025-02-09 23:00:00,097 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-09 23:00:00,098 - __main__ - INFO - Got message type: rollOk
+2025-02-09 23:00:00,098 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-09 23:00:00,098 - __main__ - INFO - Got message type: regSucceeded
+2025-02-09 23:00:00,098 - __main__ - INFO - {'Mtype': 'regSucceeded'}
+2025-02-09 23:00:00,098 - __main__ - INFO - Got message type: poll
+2025-02-09 23:00:00,099 - __main__ - INFO - {'Mtype': 'poll', 'Title': 'Round 4', 'Options': {'65': "The sequel to Very Vixen Mike & Erilas, Erilas decides to take VV Mike on a date and has her wear one of her spare casual dresses, much to VV Mike's embarrassment and Erilas' happiness.", '66': "Lynx Reed being told she's pregnant with the Prince's children, with the obvious reaction, thankfully it was just a dream", '67': 'Trace walks in on Saria and Rose in a (unintentional) compromising position. Trace being supportive makes it much more awkward', '68': 'The Great Chicken Heist.  Laura Schemes, Capt. Jenny and Mike pull off a heist on a large scale chicken farm.', '69': 'Scene-girl Kat', '70': 'Trace Transformed into a Magical Tigress Girl', '71': 'Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.', '72': "Follow up to Grand Templar Laura 2 and King Madness. Madelyn meets with Grand Templar Laura to negotiate Keith's return, but for some reason Keith seems mysteriously reluctant to leave.", '73': "Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)", '74': 'Half Kind Lt. Reed: the collars lingering side effects are impossible to conceal now - Alice doesn’t seem too concerned about it. ', '75': 'A police mug shot of Skater Kat', '76': 'Raccoon girl and Officer Vicky on another date, showing her around the park maybe? ', '77': 'AU: A Keidran terminator is sent back in time to protect Flora and unborn baby', '78': 'Keith dressed as a British Admiral, Full Dress, Circa 1805, during the Napoleonic wars, sword aloft as he commands his ship to battle.', '79': 'Very Tod Mike - our boy Mike, but manlier', '80': 'Modern Keith and Natani take Laura to the gun range. She’s terrifyingly good at it.', '81': 'Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.', '82': 'Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!', '83': 'Keith being a pretty princess ', '84': 'Windstraw and Amelia play 2-player spin the bottle. Windstraw doesn’t know the rules and drinks from the bottle when it lands on her instead.', '85': 'Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.', '86': 'Martlet and Ceroba, from Undertale Yellow, find themselves in Mekkan. Unsure of how they got there or where their friends are, they go on an adventure together to find out.', '87': 'Carver gets his head pats', '88': 'A happy modern Flora points to the Flora plushy announcement on modern trio\'s computer screen, proudly announcing, "See? It\'s me! I\'m sure he\'ll do ones of you guys, too, but he did ME first!" (or something like that)', '89': 'Sythe is ammused watching wolf Maren trying to lick a snowflake off her muzzle for the first time.', '90': 'Valentine Magical Lynx Dates: Both in jewelry only, Prince offers magical date dishes (fruit!) to blushy Reed. "We even asked our Edinmire allies to help against Templar smugglers!"', '97': 'Amelia and Windstraw enjoying a last pint of ale after closing the tavern for the night', '98': 'Trace and Laura having a moment of quiet intimacy and romance in bed, conveying feelings of love and devotion between them. (Kiss included)'}, 'Ends': 1739163622, 'SecondsLeft': 22}
+2025-02-09 23:00:00,099 - __main__ - INFO - Saving to ./polls/Round_4_2025_02_09__23_00_22.json
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 82: alaric -> Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 71: raine -> Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 85: raine -> Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 73: flora -> Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 77: flora -> AU: A Keidran terminator is sent back in time to protect Flora and unborn baby
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 81: flora -> Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.
+2025-02-09 23:00:00,100 - __main__ - INFO - Found matching suggestion @ 88: flora -> A happy modern Flora points to the Flora plushy announcement on modern trio's computer screen, proudly announcing, "See? It's me! I'm sure he'll do ones of you guys, too, but he did ME first!" (or something like that)
+2025-02-09 23:00:02,392 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 23:00:12,391 - __main__ - INFO - Heartbeat: 73;63
+2025-02-09 23:00:22,390 - __main__ - INFO - Heartbeat: 73;1
+2025-02-09 23:00:23,246 - __main__ - INFO - Got message type: results
+2025-02-09 23:00:23,247 - __main__ - INFO - {'Mtype': 'results', 'Title': 'Round 4', 'PollStarted': '2025-02-10T04:48:22.847705051Z', 'PollDuration': 720000000000, 'Options': {'65': "The sequel to Very Vixen Mike & Erilas, Erilas decides to take VV Mike on a date and has her wear one of her spare casual dresses, much to VV Mike's embarrassment and Erilas' happiness.", '66': "Lynx Reed being told she's pregnant with the Prince's children, with the obvious reaction, thankfully it was just a dream", '67': 'Trace walks in on Saria and Rose in a (unintentional) compromising position. Trace being supportive makes it much more awkward', '68': 'The Great Chicken Heist.  Laura Schemes, Capt. Jenny and Mike pull off a heist on a large scale chicken farm.', '69': 'Scene-girl Kat', '70': 'Trace Transformed into a Magical Tigress Girl', '71': 'Mary and Euchre come home to find puppy Raine and a young Reni walking around on the ceiling using magic, watched by a tired Rose.', '72': "Follow up to Grand Templar Laura 2 and King Madness. Madelyn meets with Grand Templar Laura to negotiate Keith's return, but for some reason Keith seems mysteriously reluctant to leave.", '73': "Sealeen chairing a meeting of the 'Trace fanclub'. (the only other members are Flora, Karen, and an embarrassed Red)", '74': 'Half Kind Lt. Reed: the collars lingering side effects are impossible to conceal now - Alice doesn’t seem too concerned about it. ', '75': 'A police mug shot of Skater Kat', '76': 'Raccoon girl and Officer Vicky on another date, showing her around the park maybe? ', '77': 'AU: A Keidran terminator is sent back in time to protect Flora and unborn baby', '78': 'Keith dressed as a British Admiral, Full Dress, Circa 1805, during the Napoleonic wars, sword aloft as he commands his ship to battle.', '79': 'Very Tod Mike - our boy Mike, but manlier', '80': 'Modern Keith and Natani take Laura to the gun range. She’s terrifyingly good at it.', '81': 'Flora using a snake transformation collar to get the snitties, but they are also missing(flat). Viper gal is also confused.', '82': 'Alaric proposes to Keith at a Basitin festival. Keith accepts as fireworks go off!', '83': 'Keith being a pretty princess ', '84': 'Windstraw and Amelia play 2-player spin the bottle. Windstraw doesn’t know the rules and drinks from the bottle when it lands on her instead.', '85': 'Raine/Rose AU: Raine and Reni work on a model volcano for a school science project. Nora finds the end result to be rather boring. She decides to help the girls out by spicing up their model with a bit of dragon magic.', '86': 'Martlet and Ceroba, from Undertale Yellow, find themselves in Mekkan. Unsure of how they got there or where their friends are, they go on an adventure together to find out.', '87': 'Carver gets his head pats', '88': 'A happy modern Flora points to the Flora plushy announcement on modern trio\'s computer screen, proudly announcing, "See? It\'s me! I\'m sure he\'ll do ones of you guys, too, but he did ME first!" (or something like that)', '89': 'Sythe is ammused watching wolf Maren trying to lick a snowflake off her muzzle for the first time.', '90': 'Valentine Magical Lynx Dates: Both in jewelry only, Prince offers magical date dishes (fruit!) to blushy Reed. "We even asked our Edinmire allies to help against Templar smugglers!"', '97': 'Amelia and Windstraw enjoying a last pint of ale after closing the tavern for the night', '98': 'Trace and Laura having a moment of quiet intimacy and romance in bed, conveying feelings of love and devotion between them. (Kiss included)'}, 'ExpectedBallots': 63, 'CountedBallots': 63, 'Ballots': ['ZSHCRKN', 'aTQKE', 'FJBGRYXZEOVHMCbKILASQPNTDUaW', 'VACJPZUXGYBWO', 'XWLNBIZOYFHGJEbDASTKUQM', 'GBQZFEYXUbL', 'YW', 'Y', 'UGPLBKCaQZ', 'C', 'RHNP', 'VMXCI', 'Ta', 'MYVN', 'RAVNT', 'RAG', 'bLCGXIW', 'EYaDNQKFIbX', 'OYDWPEKGaSZXCIATU', 'WXLSaYOEZCRA', 'J', 'RXZGLYOPIUCBHJbFSWaE', 'GYKCMWOI', 'R', 'BAJPW', 'DPHTab', 'IWMbNaEKXUTQ', 'EaTKSRFLOUZCAIJXWBGVQbNMDPH', 'aUBXPM', 'DXbEIGUSFNQa', 'NGbTFYWSaDVKXCEQIU', 'DaNZbISV', 'UNDaQXVbTWI', 'ZJBC', 'HKNPLSWGAEaRUZBDbYMOXICVJTFQ', 'WHGbQDXaNET', 'ASYCJ', 'YFGBJXT', 'UJXKbaVCSWIFNGPE', 'IbQEKWDXCVTSNaGU', 'VAOZCFG', 'XabTWINUSQVK', 'bUWTFDIVGKCSXN', '', 'XKbQUGI', 'YK', 'bNaQKWIFXSDG', 'bBCZ', 'KDQbIUGE', 'YXUJCGLIW', 'NH', 'DWXNIFTQSECV', 'XVWTEGNPKDQaSIFb', 'DbTCIXEQKaSGVUN', 'NXGaFIKTDVECW', 'FVQWCXSEIbUaGKTN', 'E', 'CWFSKQbILUE', 'KbaXSTGNF', 'ObPNJSL', 'UGNaZOYELTFKWXBAMI', 'IFGTXbKWaNQCD', 'PUXQbDING'], 'Placements': [[{'Id': 68, 'V': 5, 'NV': 5, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 5, 'TB': 0}, {'Id': 89, 'V': 5, 'NV': 5, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 4, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 4, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 4, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 3, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 3, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 3, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 3, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 2, 'TB': 0}, {'Id': 65, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 74, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 1, 'TB': 0}, {'Id': 76, 'V': 0, 'NV': 0, 'TB': 0}, {'Id': 81, 'V': 0, 'NV': 0, 'TB': 0}, {'Id': 83, 'V': 0, 'NV': 0, 'TB': 1}], [{'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 89, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 65, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 74, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 76, 'V': 0, 'NV': 0, 'TB': 0}, {'Id': 81, 'V': 0, 'NV': 0, 'TB': 1}], [{'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 89, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 65, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 74, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 76, 'V': 0, 'NV': 0, 'TB': 0}], [{'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 89, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 65, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 74, 'V': 1, 'NV': 0, 'TB': 4}], [{'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 89, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 65, 'V': 1, 'NV': 0, 'TB': 6}], [{'Id': 89, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 84, 'V': 1, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 1, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 66, 'V': 1, 'NV': 0, 'TB': 4}], [{'Id': 89, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 1, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}, {'Id': 77, 'V': 1, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 7, 'NV': 1, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 72, 'V': 1, 'NV': 0, 'TB': 0}], [{'Id': 89, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 1, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 90, 'V': 2, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 2, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 79, 'V': 2, 'NV': 0, 'TB': 3}], [{'Id': 89, 'V': 8, 'NV': 1, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 5, 'NV': 1, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 87, 'V': 2, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 5, 'NV': 1, 'TB': 0}, {'Id': 98, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 3, 'NV': 1, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}, {'Id': 70, 'V': 2, 'NV': 0, 'TB': 2}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 4, 'NV': 1, 'TB': 0}, {'Id': 85, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 1, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 80, 'V': 2, 'NV': 0, 'TB': 0}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 5, 'NV': 1, 'TB': 0}, {'Id': 88, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 73, 'V': 3, 'NV': 0, 'TB': 4}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 2, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 5, 'NV': 1, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 97, 'V': 3, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 4, 'NV': 1, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}, {'Id': 78, 'V': 3, 'NV': 0, 'TB': 1}], [{'Id': 89, 'V': 8, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 85, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 69, 'V': 3, 'NV': 0, 'TB': 0}], [{'Id': 89, 'V': 9, 'NV': 1, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 5, 'NV': 1, 'TB': 0}, {'Id': 82, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}, {'Id': 67, 'V': 4, 'NV': 0, 'TB': 2}], [{'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 82, 'V': 6, 'NV': 1, 'TB': 0}, {'Id': 85, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}, {'Id': 86, 'V': 4, 'NV': 0, 'TB': 0}], [{'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}, {'Id': 88, 'V': 8, 'NV': 2, 'TB': 0}, {'Id': 71, 'V': 7, 'NV': 1, 'TB': 0}, {'Id': 85, 'V': 7, 'NV': 1, 'TB': 0}, {'Id': 98, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 68, 'V': 5, 'NV': 0, 'TB': 0}], [{'Id': 88, 'V': 10, 'NV': 2, 'TB': 0}, {'Id': 98, 'V': 10, 'NV': 3, 'TB': 0}, {'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 6, 'NV': 0, 'TB': 0}, {'Id': 82, 'V': 6, 'NV': 0, 'TB': 1}], [{'Id': 88, 'V': 11, 'NV': 1, 'TB': 0}, {'Id': 98, 'V': 10, 'NV': 0, 'TB': 0}, {'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 8, 'NV': 1, 'TB': 0}, {'Id': 85, 'V': 7, 'NV': 0, 'TB': 0}, {'Id': 75, 'V': 7, 'NV': 1, 'TB': 2}], [{'Id': 98, 'V': 13, 'NV': 3, 'TB': 0}, {'Id': 88, 'V': 11, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 9, 'NV': 1, 'TB': 0}, {'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}, {'Id': 85, 'V': 8, 'NV': 1, 'TB': 0}], [{'Id': 88, 'V': 17, 'NV': 6, 'TB': 0}, {'Id': 98, 'V': 13, 'NV': 0, 'TB': 0}, {'Id': 71, 'V': 11, 'NV': 2, 'TB': 0}, {'Id': 89, 'V': 9, 'NV': 0, 'TB': 0}], [{'Id': 88, 'V': 18, 'NV': 1, 'TB': 0}, {'Id': 98, 'V': 14, 'NV': 1, 'TB': 0}, {'Id': 71, 'V': 13, 'NV': 2, 'TB': 0}], [{'Id': 88, 'V': 24, 'NV': 6, 'TB': 0}, {'Id': 98, 'V': 17, 'NV': 3, 'TB': 0}], [{'Id': 88, 'V': 35, 'NV': 11, 'TB': 0}]], 'Expires': 1739164343, 'SecondsLeft': 720}
+2025-02-09 23:00:32,390 - __main__ - INFO - Heartbeat: 73;0
+2025-02-09 23:00:42,390 - __main__ - INFO - Heartbeat: 72;0
+2025-02-09 23:00:52,390 - __main__ - INFO - Heartbeat: 69;0
+2025-02-09 23:01:02,390 - __main__ - INFO - Heartbeat: 69;0
+2025-02-09 23:01:12,390 - __main__ - INFO - Heartbeat: 69;0
+2025-02-09 23:01:22,390 - __main__ - INFO - Heartbeat: 66;0
+2025-02-09 23:01:32,391 - __main__ - INFO - Heartbeat: 64;0
+2025-02-09 23:01:42,390 - __main__ - INFO - Heartbeat: 63;0
+2025-02-09 23:01:52,390 - __main__ - INFO - Heartbeat: 61;0
+2025-02-09 23:02:02,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 23:02:12,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 23:02:22,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 23:02:32,391 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 23:02:42,390 - __main__ - INFO - Heartbeat: 59;0
+2025-02-09 23:02:52,390 - __main__ - INFO - Heartbeat: 58;0
+2025-02-09 23:03:02,390 - __main__ - INFO - Heartbeat: 57;0
+2025-02-09 23:03:12,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:03:22,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:03:32,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:03:42,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:03:52,391 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:04:02,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:04:12,390 - __main__ - INFO - Heartbeat: 56;0
+2025-02-09 23:04:22,390 - __main__ - INFO - Heartbeat: 55;0
+2025-02-09 23:04:32,390 - __main__ - INFO - Heartbeat: 54;0
