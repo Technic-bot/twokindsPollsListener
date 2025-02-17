@@ -1522,3 +1522,81 @@
 2025-02-09 23:04:12,390 - __main__ - INFO - Heartbeat: 56;0
 2025-02-09 23:04:22,390 - __main__ - INFO - Heartbeat: 55;0
 2025-02-09 23:04:32,390 - __main__ - INFO - Heartbeat: 54;0
+2025-02-16 18:47:12,585 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 18:48:42,435 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:02:49,179 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:02:49,521 - __main__ - INFO - Authenticating as None
+2025-02-16 19:02:49,522 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:02:49,522 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:07:35,582 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:07:35,911 - __main__ - INFO - Authenticating as kMoZ5HvjhwGZD0OaXkq21ziFJgBgtmC8
+2025-02-16 19:07:35,913 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:07:35,913 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:07:35,970 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-16 19:07:35,971 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-16 19:07:35,972 - __main__ - INFO - Got message type: blacklistOk
+2025-02-16 19:07:35,973 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-16 19:07:35,974 - __main__ - INFO - Got message type: rollOk
+2025-02-16 19:07:35,975 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-16 19:07:35,976 - __main__ - INFO - Got message type: status
+2025-02-16 19:07:35,977 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-16 19:07:36,289 - __main__ - INFO - Heartbeat: 54;0
+2025-02-16 19:09:38,747 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:09:39,084 - __main__ - INFO - Authenticating as kMoZ5HvjhwGZD0OaXkq21ziFJgBgtmC8
+2025-02-16 19:09:39,086 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:09:39,087 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:09:39,143 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-16 19:09:39,144 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-16 19:09:39,144 - __main__ - INFO - Got message type: blacklistOk
+2025-02-16 19:09:39,144 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-16 19:09:39,145 - __main__ - INFO - Got message type: rollOk
+2025-02-16 19:09:39,145 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-16 19:09:39,145 - __main__ - INFO - Got message type: status
+2025-02-16 19:09:39,145 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-16 19:09:46,290 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:09:56,289 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:10:06,291 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:10:16,288 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:10:26,292 - __main__ - INFO - Heartbeat: 56;0
+2025-02-16 19:10:36,288 - __main__ - INFO - Heartbeat: 56;0
+2025-02-16 19:11:25,377 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:11:25,713 - __main__ - INFO - Authenticating as kMoZ5HvjhwGZD0OaXkq21ziFJgBgtmC8
+2025-02-16 19:11:25,715 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:11:25,715 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:11:25,773 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-16 19:11:25,773 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-16 19:11:25,774 - __main__ - INFO - Got message type: blacklistOk
+2025-02-16 19:11:25,774 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-16 19:11:25,775 - __main__ - INFO - Got message type: rollOk
+2025-02-16 19:11:25,775 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-16 19:11:25,776 - __main__ - INFO - Got message type: status
+2025-02-16 19:11:25,776 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-16 19:11:26,289 - __main__ - INFO - Heartbeat: 56;0
+2025-02-16 19:11:36,290 - __main__ - INFO - Heartbeat: 56;0
+2025-02-16 19:11:46,290 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:11:56,292 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:12:06,289 - __main__ - INFO - Heartbeat: 55;0
+2025-02-16 19:13:13,165 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:13:13,492 - __main__ - INFO - Authenticating as kMoZ5HvjhwGZD0OaXkq21ziFJgBgtmC8
+2025-02-16 19:13:13,494 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:13:13,495 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:13:13,552 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-16 19:13:13,553 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-16 19:13:13,553 - __main__ - INFO - Got message type: blacklistOk
+2025-02-16 19:13:13,554 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-16 19:13:13,555 - __main__ - INFO - Got message type: rollOk
+2025-02-16 19:13:13,555 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-16 19:13:13,556 - __main__ - INFO - Got message type: status
+2025-02-16 19:13:13,556 - __main__ - INFO - {'Mtype': 'status'}
+2025-02-16 19:22:32,389 - __main__ - INFO - Connecting to wss://tkpolls.com/voter
+2025-02-16 19:22:32,793 - __main__ - INFO - Authenticating as kMoZ5HvjhwGZD0OaXkq21ziFJgBgtmC8
+2025-02-16 19:22:32,794 - __main__ - INFO - Got message type: reqAuth
+2025-02-16 19:22:32,795 - __main__ - INFO - {'Mtype': 'reqAuth'}
+2025-02-16 19:22:32,855 - __main__ - INFO - Got message type: sessionSecondary
+2025-02-16 19:22:32,856 - __main__ - INFO - {'Mtype': 'sessionSecondary'}
+2025-02-16 19:22:32,857 - __main__ - INFO - Got message type: blacklistOk
+2025-02-16 19:22:32,858 - __main__ - INFO - {'Mtype': 'blacklistOk'}
+2025-02-16 19:22:32,858 - __main__ - INFO - Got message type: rollOk
+2025-02-16 19:22:32,859 - __main__ - INFO - {'Mtype': 'rollOk'}
+2025-02-16 19:22:32,859 - __main__ - INFO - Got message type: status
+2025-02-16 19:22:32,860 - __main__ - INFO - {'Mtype': 'status'}

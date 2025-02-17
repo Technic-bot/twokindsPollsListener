@@ -18,7 +18,7 @@ def proc_opts():
     return parser.parse_args()
 
 
-class tkPollsLister():
+class tkPollsListener():
     def __init__(self, 
             spectate=False, sess_token=None, logfile='',
             poll_dir='', sugg_file=None):
@@ -91,7 +91,7 @@ class tkPollsLister():
             #"Sec-WebSocket-Extensions": "permessage-deflate",
             #"Sec-WebSocket-Key": "7nyYKpXbmqXwlu27lPc3rg==",
             "Connection": "keep-alive, Upgrade",
-            "Cookie": f"sesh=yYpJmbuHOtWS4HFKQqmB9YHB4O8XW3m_",
+            "Cookie": f"sesh={self.token}",
             "Sec-Fetch-Dest": "empty",
             "Sec-Fetch-Mode": "websocket",
             "Sec-Fetch-Site": "same-origin",
@@ -100,12 +100,12 @@ class tkPollsLister():
             "Upgrade": "websocket"}
         return
 
-    async def vote(self):
+    async def vote(self, websocket):
         """ From page source return a string of characters corresponding to votes"""
         if not self.suggs:
             return
 
-        logger.info(f"Final vote string: {self.vote_str}")
+        self.logger.info(f"Final vote string: {self.vote_str}")
         await websocket.send(f'ballot: {self.vote_str}')
         return 
 
@@ -140,8 +140,7 @@ class tkPollsLister():
         async with websockets.connect(
                 self.uri, 
                 user_agent_header=self.agent,
-                extra_headers=self.extra_head) as websocket:
-            
+                additional_headers=self.extra_head) as websocket:
             self.logger.info(f"Authenticating as {self.token}")
             await websocket.send(f'auth: {self.token}')
             async for message in websocket:
@@ -159,7 +158,7 @@ class tkPollsLister():
                         self.get_votes()
                     if mtype == 'call':
                         self.logger.info("Sending votes")
-                        await self.vote()
+                        await self.vote(websocket)
                 except ValueError as e:
                     self.logger.info(f"Heartbeat: {message}")
                 except KeyError as e:
@@ -168,7 +167,7 @@ class tkPollsLister():
 
 if __name__ == "__main__":
     args = proc_opts()
-    listener = tkPollsLister(
+    listener = tkPollsListener(
             sess_token=args.token,
             poll_dir='./polls/',
             sugg_file=args.suggestions) 
